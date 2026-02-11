@@ -1,0 +1,1 @@
+# Minggu-1-Praktikum-13-Mediapipe-Hand
